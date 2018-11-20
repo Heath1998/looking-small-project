@@ -12,4 +12,4 @@
 <br>
 <a href="https://zehongfan.github.io/work/go-where-project/index.html#/" rel="nofollow">仿去哪儿网app</a>
 <br>
-<a href="https://zehongfan.github.io/work/MVVM-frame/index.html" rel="nofollow">学习vue的仿vue的MVVM框架</a>
+<a href="https://zehongfan.github.io/work/MVVM-frame/index.html" rel="nofollow">学习vue的自己写的仿vue的MVVM框架</a>
